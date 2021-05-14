@@ -1,0 +1,20 @@
+.navbar{
+    background: rgb(44,178,154);
+    background: linear-gradient(153deg, rgba(44,178,154,1) 35%, rgba(116,255,202,1) 100%);
+}
+
+.navbar-brand, .nav-link{
+    color: #000;
+}
+
+.navbar-brand:hover{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
+}
+footer{
+    color:#fff;
+    background: rgb(44,178,154);
+    background: linear-gradient(153deg, rgba(44,178,154,1) 35%, rgba(116,255,202,1) 100%);
+}
